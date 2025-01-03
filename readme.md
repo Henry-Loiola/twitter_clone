@@ -284,3 +284,5 @@ Sugestões são bem-vindas! Para contribuir:
 - Para sugestões ou problemas, fique à vontade para abrir uma issue.
 
 Obrigado por ajudar a melhorar este projeto! 😊
+
+Atualizando
