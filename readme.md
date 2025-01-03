@@ -285,4 +285,4 @@ Sugestões são bem-vindas! Para contribuir:
 
 Obrigado por ajudar a melhorar este projeto! 😊
 
-Atualizando
+Atualizando projeto
