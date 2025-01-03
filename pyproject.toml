@@ -16,6 +16,7 @@ djoser = "^2.2.3"
 python-decouple = "^3.8"
 secure-smtplib = "^0.1.1"
 python-dotenv = "^1.0.1"
+gitpython = "^3.1.44"
 
 [tool.poetry.group.dev.dependencies]
 Django = "^5.1.2"
